@@ -1,10 +1,10 @@
-
+```
 __        _____  ____  ____  ____  ____  _____ ____ ____  
 \ \      / / _ \|  _ \|  _ \|  _ \|  _ \| ____/ ___/ ___| 
  \ \ /\ / / | | | |_) | | | | |_) | |_) |  _| \___ \___ \ 
   \ V  V /| |_| |  _ <| |_| |  _ <|  _ <| |___ ___) |__) |
    \_/\_/  \___/|_| \_\____/|_| \_\_| \_\_____|____/____/ 
-
+```
 WORDPRESS-SCANNER
 A fast and efficient Python-based automation tool for scanning WordPress websites. 
 It simplifies the use of WPScan by providing a user-friendly menu to identify 
